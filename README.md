@@ -35,7 +35,7 @@ MLDS_IDS│
 │   ├── flow_generator.py             # TShark flow extraction
 │   ├── feature_extractor.py          # 52 feature extraction
 │   ├── feature_scaler.py             # Feature scaling
-│   └── gui_auto.py                   # Streamlit dashboard at front
+│   └── gui_auto.py                   # Streamlit dashboard
 │
 ├── auto_processor.py                 # Main processing script
 ├── controller.py                     # Process orchestrator
